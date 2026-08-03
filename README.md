@@ -9,7 +9,7 @@ Project Includes
 - Power Circuit Diagram
 - Panel Layout
 - Electrical Components Arrangement
-- Proper Wire Connections
+-  Wire Connections
 
 Software Used
 
@@ -21,8 +21,9 @@ This project demonstrates my ability to create electrical drawings and panel lay
 
 Files
 
-- Power Circuit Drawing (PDF/PNG)
-- Panel Layout Drawing (PDF/PNG)
+- Power Circuit Drawing (PDF/PNG/DWG)
+- Panel Layout Drawing (PDF/PNG/DWG)
+  
 
 Designed By
 
